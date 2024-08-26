@@ -31,7 +31,7 @@
   "loading": "Loading",
   "loadingComments": "Loading comments…",
   "loadingPreview": "Loading preview…",
-  "poweredBy": "– powered by <a>giscus</a>",
+  "poweredBy": "<– comment directly via the discussion, powered by <a>giscus</a>",
   "oldest": "Oldest",
   "newest": "Newest",
   "showPreviousReplies": {
